@@ -6,19 +6,14 @@ Bem-vindo ao **Dune II**, um jogo inspirado no épico universo de Duna! Sua miss
   <video src="https://github.com/user-attachments/assets/c1749e92-e1b6-4c50-9db6-64a134f48493" autoplay loop></video>
 </div>
 
----
 
 ## 🌟 **Objetivo do Jogo**
 
 - **⌛ Colete especiarias**: Espalhadas pelos mapas, elas são a chave para enriquecer sua casa e garantir sua prosperidade.
-- **🛒 Venda especiarias no mercador de Arrakis**: Troque as especiarias por dinheiro e use os lucros para melhorar seu inventário e garantir sua sobrevivência.
+- **🛒 Venda especiarias**: Troque as especiarias por dinheiro e use os lucros para melhorar seu inventário e garantir sua sobrevivência.
 - **💧 Gerencie sua água**: O deserto é implacável, e sem água você não sobreviverá. Sempre que possível, compre água para não morrer.
-- **🗺️ Explore diferentes mapas**:
-  - **Mapa 1**: Relativamente tranquilo, mas com menos especiarias.
-  - **Mapa 2**: Mais perigoso, onde movimentos descuidados podem chamar a atenção dos **vermes gigantes** mais facilmente.
-  - **Mapa 3**: O desafio máximo — sobreviver exige estratégia. Você acumula muitos pontos ao coletar especiarias, mas será facilmente identificado pelos **vermes**. 🐉
+- **🗺️ Explore diferentes mapas**: Enfrente os vermes gigantes e colete mais ou menos especiarias de acordo com a dificuldade. 
 
----
 
 ## ⛰️ **Desafios**
 
@@ -26,22 +21,30 @@ Bem-vindo ao **Dune II**, um jogo inspirado no épico universo de Duna! Sua miss
 - **🚨 Evite os vermes gigantes**: Para não ser identificado por eles, não repita seus passos. Quanto mais especiarias no mapa, maior o risco de ataque.
 - **🧠 Planeje cada movimento**: Errar pode significar a sua morte.
 
----
 
 ## 🎮 **Como Jogar**
 
-### **Controles**
-- **Teclado**:
+### 🔗 Plataformas:
+- PC
+- Xbox
+- Playstation (Em breve!)
+
+### ⌨️ Controles no PC:
   - **WASD**: Movimente seu personagem.
   - **SPACE**: Pule as cutscenes.
   - **ENTER**: Confirme ações.
   - **P**: Interaja com portais.
   - **E**: Fique parado e prenda a respiração para evitar ser identificado pelos vermes que se rastejam sob a areia. 🐍
 
-### **🎮 Adaptado para Xbox ✅**
-### **🎮 playstation coming soon... 🚧**
 
----
+## 🪟 Instalação no Windows
+
+1. Baixe o instalador clicando no link: 👉 [**Instalador para Windows**](https://github.com/Mateus-Ribeir0/DuneII/releases/download/DuneII/Instalar.Dune.II.exe)
+
+2. Abra o instalador e siga as instruções para concluir a instalação.
+
+3. Após a instalação, execute o jogo diretamente do atalho criado na área de trabalho ou no menu Iniciar.
+
 
 ## 💻 **Instalação em Linux**
 

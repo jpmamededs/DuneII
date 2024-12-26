@@ -37,7 +37,7 @@ Bem-vindo ao **Dune II**, um jogo inspirado no épico universo de Duna! Sua miss
   - **E**: Fique parado e prenda a respiração para evitar ser identificado pelos vermes que se rastejam sob a areia. 🐍
 
 
-## 🪟 Instalação no Windows
+## 🪟 Instalação em Windows
 
 1. Baixe o instalador clicando no link: 👉 [**Instalador para Windows**](https://github.com/Mateus-Ribeir0/DuneII/releases/download/DuneII/Instalar.Dune.II.exe)
 

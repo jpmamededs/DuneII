@@ -184,7 +184,7 @@ void processarEntradaLobby(GameScreen *currentScreen) {
     movePlayer(dx, dy);
 
     if (player_x >= MAPA_LARGURA - 1) { // Jogador tenta sair pelo limite direito do mapa
-        if (itemsCollected >= 10 && spaceshipAnimationPlayed && contFinal) {
+        if (itemsCollected >= 7 && spaceshipAnimationPlayed && contFinal) {
             telaVaziaBloqueada = false; // Verifica se o jogador tem mais de 4 especiarias
             contFinal = false;
             *currentScreen = EMPTY_SCREEN;
@@ -2119,7 +2119,7 @@ void drawLobby() {
 
     DrawTexturePro(npcslobbyTexture, npcSourceRec2, npcDestRec2, (Vector2){0, 0}, 0.0f, WHITE);
 
-    if (itemsCollected >= 3 && !spaceshipAnimationPlayed) {
+    if (itemsCollected >= 7 && !spaceshipAnimationPlayed) {
         static float spaceshipTimer = 0.0f;
         spaceshipTimer += GetFrameTime();
 
